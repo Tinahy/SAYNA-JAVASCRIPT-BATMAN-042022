@@ -1,0 +1,79 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url("./Assets/Illustrations/Home/Bathome1.png");
+    height: 800px;
+    
+}
+header nav a{
+    color: aliceblue;
+    float: right;
+    justify-content: space-between;
+    margin-right: 10%;
+    padding: 5%;
+}
+
+.texte{
+    color: aliceblue;
+    text-align: center;
+    padding: 10%;
+    font-size: 150%;
+}
+.texte2{
+    font-size: 180%;
+}
+.button{
+    text-align: center;
+    
+}
+
+
+.batman-cinéma{
+    background-color: #000000;
+    background-size: cover;
+
+}
+
+.texte3{
+    color: #ffffff;
+    padding-left: 15%;
+    padding: 15%;
+    font-size: 120%;
+}
+.row{
+    margin-top: -5;
+    justify-content: space-between;
+}
+.background{
+        background-image: url("./Assets/Illustrations/Home/Batslider1.png");
+        height: 500px;
+}
+.Némécis{
+    background-color: #000000;
+    background-size: cover;
+}
+
+.texte4{
+    color: #ffffff;
+    padding: 10%;
+    font-size: 120%;
+
+}
+.multimédia{
+    background-color: #000000;
+    background-size: cover;
+    padding-top: 5%;
+}
+#imgSlide{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+}
+
+.contacte{
+    background-color: #575e58;
+    background-size: cover;
+}
